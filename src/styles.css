@@ -1,0 +1,10 @@
+/* You can add global styles to this file, and also import other style files */
+.even {
+  background-color: #959;
+  color: white;
+}
+
+.odd {
+  background-color: #252;
+  color: white;
+}
